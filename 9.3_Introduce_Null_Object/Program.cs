@@ -1,8 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using _9._3_Introduce_Null_Object;
+namespace _9._3_Introduce_Null_Object;
 
-internal class Program
+internal static class Program
 {
     public static void Main(string[] args)
     {
